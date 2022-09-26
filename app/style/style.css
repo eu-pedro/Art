@@ -45,3 +45,28 @@
   background-size: cover;
   background-position: center;
 }
+.img-destaque-5{
+  background-image: url('../assets/img-destaque-5.jpg');
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
+.img-destaque-6{
+  background-image: url('../assets/img-destaque-6.jpg');
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
+.height{
+  height: 450px;
+}
+/* Footer */
+
+.nav-footer{
+  text-decoration: none;
+  transition: 0.6s ease-in-out;
+}
+.nav-footer:hover{
+  color: rgb(106, 89, 89);
+  transition: 0.6s ease-in-out;
+}
