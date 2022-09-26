@@ -1,0 +1,47 @@
+
+
+/* LOGO */
+.img-logo{
+  width: 40px;
+}
+/* NAV */
+.listas{
+  list-style: none;
+}
+
+/* MAIN */
+.main-img{
+  background-image: url('../assets/background-main.jpg');
+  background-repeat: no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+/* MAIN - ARTES EM DESTAQUE */
+.img-destaque-1{
+  background-image: url('../assets/img-destaque-1.jpg');
+  height: 250px;
+  
+  background-size: cover;
+  background-position: center;
+  
+  
+}
+.img-destaque-2{
+  background-image: url('../assets/img-destaque-2.jpg');
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
+.img-destaque-3{
+  background-image: url('../assets/img-destaque-3.jpg');
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
+.img-destaque-4{
+  background-image: url('../assets/img-destaque-4.jpg');
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
